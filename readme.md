@@ -14,7 +14,7 @@ Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **
 
 ### Replication
 
-- Software: STATA 16.0 or above is recommended to running the following do-files:
+- Software: STATA 16.0 or above is recommended in running the following do-files:
 
   (1) Figure 2-Figure 6: replication codes at ~/code/figure, fig2.do-fig6.do 
 
