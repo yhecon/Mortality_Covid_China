@@ -10,6 +10,8 @@ Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **
 
 - Check [here](https://www.medrxiv.org/content/10.1101/2020.08.28.20183699v2) for an ealier version of this research.
 
+  - *Note:* As we have several updates on this paper, the data and codes here are not consistent (in order) with the above earlier version.
+
   
 
 - **Abstract**: Using death registries based on 300 million Chinese people and a difference-in-differences design, we find that China’s stringent lockdowns during the COVID-19 pandemic significantly reduced the non-COVID-19 mortality (by 4.6%). The health benefits persisted and became even greater after the lockdown rules were loosened (mortality reduced by 11.2%). Significant changes in people’s behaviors (e.g., wearing masks and practicing social distancing) and reductions in air pollution and traffic accidents could have driven the results. We estimate that 54,000 and 293,000 lives could have been saved from non-COVID-19 diseases/causes during the 50 days of lockdowns and the subsequent 115 days of the post-lockdown period (from April 8 to July 31, 2020) in the country. The results suggest that the rapid and strict virus countermeasures not only effectively controlled the pandemic in China but also brought about unintended and substantial public health benefits.
