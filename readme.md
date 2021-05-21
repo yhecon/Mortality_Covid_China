@@ -2,8 +2,10 @@
 
 
 
-Replicated codes and data for **Do Lockdowns Bring about Additional Mortality Benefits or Costs? Evidence based on Death Records from 300 Million Chinese People** by Jin-Lei Qi et al.
+Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **on Non-COVID-19 Mortality in China** by Jin-Lei Qi et al.
 
-**Abstract**: After the COVID-19 outbreak, China immediately adopted stringent lockdown policies to contain the virus. Using comprehensive death records covering around 300 million Chinese people, we estimate the impacts of city and community lockdowns on non-COVID-19 mortality outside of Wuhan. Employing a difference-in-differences method, we find that lockdowns reduced the number of non-COVID-19 deaths by 4.9% (cardiovascular deaths by 6.2%, injuries by 9.2%, and non-COVID-19 pneumonia deaths by 14.3%). The health benefits are likely driven by significant reductions in air pollution, traffic, and human interactions. A back-of-the-envelope calculation shows that more than 32,000 lives could have been saved from non-COVID-19 diseases/causes during the 40 days of the lockdown on which we focus. The results suggest that the rapid and strict virus countermeasures not only effectively controlled the spread of COVID-19 but also brought about unintended short-term public health benefits. These findings can help better inform policymakers around the world about the benefits and costs of city and community lockdowns policies in dealing with the COVID-19 pandemic.
+**Abstract**: Using death registries based on 300 million Chinese people and a difference-in-differences design, we find that China’s stringent lockdowns during the COVID-19 pandemic significantly reduced the non-COVID-19 mortality (by 4.6%). The health benefits persisted and became even greater after the lockdown rules were loosened (mortality reduced by 11.2%). Significant changes in people’s behaviors (e.g., wearing masks and practicing social distancing) and reductions in air pollution and traffic accidents could have driven the results. We estimate that 54,000 and 293,000 lives could have been saved from non-COVID-19 diseases/causes during the 50 days of lockdowns and the subsequent 115 days of the post-lockdown period (from April 8 to July 31, 2020) in the country. The results suggest that the rapid and strict virus countermeasures not only effectively controlled the pandemic in China but also brought about unintended and substantial public health benefits.
 
-Paper link: https://www.medrxiv.org/content/10.1101/2020.08.28.20183699v3 (Updated Jan-13)
+Paper link: forthcoming at *Nature Human Behaviour*
+
+Last update: 21st May 2021
