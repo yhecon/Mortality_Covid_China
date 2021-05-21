@@ -8,4 +8,7 @@ Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **
 
 Paper link: Under Review at *Nature Human Behaviour*, latest version will be updated soon
 
+- Figure 2-Figure 6: replication codes at ~/code/figure, fig2.do-fig6.do 
+- 
+
 Last update: 21st May 2021
