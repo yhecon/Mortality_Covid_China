@@ -2,7 +2,7 @@
 
 
 
-### Read Me
+### Readme
 
 Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **on Non-COVID-19 Mortality in China** by Jin-Lei Qi et al.
 
