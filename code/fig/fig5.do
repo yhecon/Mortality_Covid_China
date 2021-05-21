@@ -15,13 +15,6 @@ cap log close
 local TNK 1
 local YHN 0
 
-if `TNK'==1{
-	global dir= "C:\Users\takan\Dropbox\Covid_Mortality\Replication\Nat_HB_RR1"
-}
-
-if `YHN'==1{
-	global dir= "C:\Users\ypanam\Dropbox\Research\Covid_Mortality\Replication\Nat_HB_RR1\"
-}
 
 global data "$dir/data"
 global table "$dir/table"

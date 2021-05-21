@@ -12,6 +12,6 @@ Paper link: Under Review at *Nature Human Behaviour*, latest version will be upd
 
 - Figure 2-Figure 6: replication codes at ~/code/figure, fig2.do-fig6.do 
 - Table S1-TableS6: replication codes at ~/code/S_table, tableS1.do-tableS6
-- Extended Data Figure: replication codes at ~/code/ex_figure, ex1.do-ex7.do
+- Extended Data Figures: replication codes at ~/code/ex_figure, ex1.do-ex7.do
 
 Last update: 21st May 2021
