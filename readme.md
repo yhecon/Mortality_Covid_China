@@ -38,6 +38,8 @@ Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **
   - psm/nnm_indicator.dta
     - Extended Data Figures: ex_Figure4
   - hete/hetero.dta
+    - Figure 5;
+    - Table S4, Table S6;
     - Extended Data Figures: ex_Figure6
   - age/age.dta
     - Extended Data Figures: ex_Figure7
