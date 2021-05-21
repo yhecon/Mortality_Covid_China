@@ -1,0 +1,16 @@
+Table 1. The Impacts of City Lockdown on Deaths from Different Causes								
+		(1)	(2)	(3)	(4)	(5)	(6)	(7)
+		Mean = 9.353	Mean = 4.612	Mean = 0.535	Mean = 0.119	Mean = 0.698	Mean = 2.151	Mean = 1.173
+VARIABLES	LABELS	Total # of Deaths	CVD	Injury	Acute Lower Respiratory Infection	Chronic Lower Respiratory Infection	Neoplasms	Other Causes
+								
+inter_c_t	Lockdown policy	-0.334***	-0.226***	-0.003	-0.013	-0.035	-0.013	-0.041
+		[0.116]	[0.075]	[0.018]	[0.011]	[0.026]	[0.036]	[0.029]
+								
+DSP Fixed Effect		YES	YES	YES	YES	YES	YES	YES
+Date Fixed Effect		YES	YES	YES	YES	YES	YES	YES
+Obs.		45150	45150	45150	45150	45150	45150	45150
+Adjusted R-Square		0.762	0.651	0.319	0.188	0.420	0.541	0.387
+# of DSP Counties		602	602	602	602	602	602	602
+Robust standard errors in brackets								
+*** p<0.01, ** p<0.05, * p<0.1								
+Notes: Each cell in the table represents a separate DiD regression for the samples from Jan 25 to Apr 7 in 2020. All DSP districts/counties are included in the analysis except 3 from Wuhan. The outcome variable is the daily number of non-COVID-19 deaths from the DSP districts/counties. We use mortality data from January 1 to April 7, 2020 for this analysis, 2020. The explanatory variable is a dummy indicating whether a city associated with a DSP had a lockdown policy on a particular date. The standard errors clustered at the DSP level are reported below the estimates. * significant at 10% ** significant at 5% *** significant at 1%.								
