@@ -16,6 +16,6 @@ STATA 16.0 or above is recommended to running the following do-files:
 
 About data: all the data to replicate the results will be posted upon publication. Currently we upload the main workfile (~/data/main.dta), which generate the necessary baseline results for this study.
 
-- main.dta: workfile to generate the baseline results - (Figure 2, Figure 3, Figure 4, and Figure 6)
+- main.dta: workfile to generate the baseline results - (Figure 2, Figure 3, Figure 4, and Figure 6; Table S1, Table S2, Table S3, Table S5; EX_Figure2, EX_Figure3, EX_Figure4, EX_Figure5)
 
 Last update: 21st May 2021
