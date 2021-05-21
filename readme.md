@@ -2,7 +2,7 @@
 
 
 
-#### Read Me
+### Read Me
 
 Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **on Non-COVID-19 Mortality in China** by Jin-Lei Qi et al.
 
@@ -10,7 +10,7 @@ Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **
 
 Paper link: Under Review at *Nature Human Behaviour*, latest version will be updated soon
 
-#### Replication
+### Replication
 
 - Software: STATA 16.0 or above is recommended to running the following do-files:
 
