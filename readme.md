@@ -29,9 +29,6 @@ Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **
   
 
 - Data: all the data to replicate the results will be posted upon publication. 
-
-  *Note:* Currently we upload the main workfile (~/data/main.dta), which generate the necessary baseline results for this study.
-
   - main.dta: workfile to generate the baseline results
     - Figure 2, Figure 3, Figure 4, and Figure 6; 
     - Table S1, Table S2, Table S3, Table S5;
