@@ -36,6 +36,18 @@ Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **
     - Figure 2, Figure 3, Figure 4, and Figure 6; 
     - Table S1, Table S2, Table S3, Table S5;
     - Extended Data Figures: ex_Figure2, ex_Figure3, ex_Figure4, ex_Figure5
+  - case_data/covid.dta: city/prefectural level COVID status in China
+    - Extended Data Figures: ex_Figure1
+  - psm/nnm_indicator.dta
+    - Extended Data Figures: ex_Figure4
+  - hete/hetero.dta
+    - Extended Data Figures: ex_Figure6
+  - age/age.dta
+    - Extended Data Figures: ex_Figure7
+
+### **Acknowledgments**
+
+In doing this project, we thank all the staff who work in the primary health facilities, hospitals, and Center for Disease Control and Prevention for death reporting at county/district, city, province, and national levels. We also thank Yun Qiu for sharing the community lockdown data with us, Wei Wang and Yaxuan Liu for providing excellent research assistance. 
 
 
 
