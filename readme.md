@@ -6,8 +6,6 @@
 
 Replicated codes and data for **Short- and Medium-Term Impacts of Lockdowns** **on Non-COVID-19 Mortality in China** by Jin-Lei Qi et al. 
 
-- Link to the paper: Under Review at *Nature Human Behaviour*, latest version will be updated soon
-
 - Check [here](https://www.medrxiv.org/content/10.1101/2020.08.28.20183699v2) for an ealier version of this research.
 
   - *Note:* As we have several updates on this paper, the data and codes here are not consistent (in order) with the above earlier version.
